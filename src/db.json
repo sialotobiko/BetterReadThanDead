@@ -1,0 +1,74 @@
+{
+    "booksData" : [
+        {
+            "id": 1,
+            "title": "It Ends With Us",
+            "author": "Colleen Hover",
+            "genre": "Romance",
+            "yearPublished": 2016 
+        },
+        {
+            "id": 2,
+            "title": "Verity",
+            "author": "Colleen Hover",
+            "genre": "Thriller",
+            "yearPublished": 2018 
+        },
+        {
+            "id": 3,
+            "title": "The Seven Husbands of Evelyn Hugo",
+            "author": "Taylor Jenkins Reid",
+            "genre": "Fiction",
+            "yearPublished": 2017 
+        },
+        {
+            "id": 4,
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "genre": "Self-help",
+            "yearPublished": 2018 
+        },
+        {
+            "id": 5,
+            "title": "Reminders of Him",
+            "author": "Colleen Hover",
+            "genre": "Romance",
+            "yearPublished": 2022 
+        },
+        {
+            "id": 6,
+            "title": "The Silent Patient",
+            "author": "Alex Michaelides",
+            "genre": "Thriller",
+            "yearPublished": 2019 
+        },
+        {
+            "id": 7,
+            "title": "The Last Thing He Told Me",
+            "author": "Laura Dave",
+            "genre": "Mystery",
+            "yearPublished": 2021 
+        },
+        {
+            "id": 8,
+            "title": "The Midnight Library",
+            "author": "Matt Haig",
+            "genre": "Fiction",
+            "yearPublished": 2020 
+        },
+        {
+            "id": 9,
+            "title": "People We Meet on Vacation",
+            "author": "Emily Henry",
+            "genre": "Romance",
+            "yearPublished": 2021 
+        },
+        {
+            "id": 10,
+            "title": "The Guest List",
+            "author": "Lucy Foley",
+            "genre": "Thriller",
+            "yearPublished": 2020 
+        }
+    ]
+}
