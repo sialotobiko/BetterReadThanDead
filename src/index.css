@@ -38,3 +38,9 @@ h1{
   color: #ce7d5d;
   font-size: 30pt;
 }
+
+td, th{
+  border: 1px solid #ddd;
+  padding: 8px;
+  font-size: 22pt;
+}
