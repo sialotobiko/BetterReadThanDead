@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+*{
+  background-color:  bisque;
+}
+
+.navlinks{
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 100px;
+  background-color: bisque;
+  align-items: center;
+  font-size: 22pt;
+}
+
+.home{
+  background-color: bisque;
+}
+
+.home p{
+  font-size: 22pt;
+}
+
+h1{
+  color: #ce7d5d;
+  font-size: 30pt;
+}
