@@ -44,3 +44,22 @@ td, th{
   padding: 8px;
   font-size: 22pt;
 }
+
+form{
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  font-size: 20pt;
+}
+
+form input{
+  height: 35px;
+  background-color: white;
+}
+
+#submit{
+  font-size: 20pt;
+  align-items: center;
+  width: 300px;
+}
