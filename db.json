@@ -4,29 +4,25 @@
       "id": 1,
       "title": "It Ends With Us",
       "author": "Colleen Hover",
-      "genre": "Romance",
-      "yearPublished": 2016
+      "genre": "Romance"
     },
     {
       "id": 2,
       "title": "Verity",
       "author": "Colleen Hover",
-      "genre": "Thriller",
-      "yearPublished": 2018
+      "genre": "Thriller"
     },
     {
       "id": 3,
       "title": "The Seven Husbands of Evelyn Hugo",
       "author": "Taylor Jenkins Reid",
-      "genre": "Fiction",
-      "yearPublished": 2017
+      "genre": "Fiction"
     },
     {
       "id": 4,
       "title": "Atomic Habits",
       "author": "James Clear",
-      "genre": "Self-help",
-      "yearPublished": 2018
+      "genre": "Self-help"
     },
     {
       "id": 5,
@@ -39,103 +35,31 @@
       "id": 6,
       "title": "The Silent Patient",
       "author": "Alex Michaelides",
-      "genre": "Thriller",
-      "yearPublished": 2019
+      "genre": "Thriller"
     },
     {
       "id": 7,
       "title": "The Last Thing He Told Me",
       "author": "Laura Dave",
-      "genre": "Mystery",
-      "yearPublished": 2021
+      "genre": "Mystery"
     },
     {
       "id": 8,
       "title": "The Midnight Library",
       "author": "Matt Haig",
-      "genre": "Fiction",
-      "yearPublished": 2020
+      "genre": "Fiction"
     },
     {
       "id": 9,
       "title": "People We Meet on Vacation",
       "author": "Emily Henry",
-      "genre": "Romance",
-      "yearPublished": 2021
+      "genre": "Romance"
     },
     {
       "id": 10,
       "title": "The Guest List",
       "author": "Lucy Foley",
-      "genre": "Thriller",
-      "yearPublished": 2020
-    },
-    {
-      "title": "The Vanishing Half",
-      "author": "Britt Bennett",
-      "genre": "Fiction",
-      "yearPublished": "",
-      "year": "0",
-      "id": 11
-    },
-    {
-      "id": 12
-    },
-    {
-      "title": "The Vanishing Half",
-      "author": "Britt Bennett",
-      "genre": "Fiction",
-      "yearPublished": "",
-      "year": "o",
-      "id": 13
-    },
-    {
-      "title": "The Four Winds",
-      "author": "Kristen Hannah",
-      "genre": "Fiction",
-      "yearPublished": "",
-      "year": "1",
-      "id": 14
-    },
-    {
-      "title": "The Book Thief",
-      "author": "Markus Zusak",
-      "genre": "Fiction",
-      "yearPublished": "",
-      "year": "2020",
-      "id": 15
-    },
-    {
-      "title": "The Book Thief",
-      "author": "Markus Zusak",
-      "genre": "Fiction",
-      "yearPublished": "",
-      "": "2020",
-      "id": 16
-    },
-    {
-      "title": "jhwd",
-      "author": "qaygw",
-      "genre": "iduhy",
-      "yearPublished": "",
-      "d": "d",
-      "f": "f",
-      "x": "x",
-      "j": "j",
-      "c": "c",
-      "g": "g",
-      "h": "h",
-      "s": "s",
-      "year": "w",
-      "id": 17
-    },
-    {
-      "title": "ydr",
-      "author": "ytrf",
-      "genre": "rut",
-      "yearPublished": "",
-      "year": "2020",
-      "id": 18
+      "genre": "Thriller"
     }
   ]
 }
