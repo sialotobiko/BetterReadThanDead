@@ -10,7 +10,7 @@ useEffect(() => {
 }, [])
 
 function fetchBookData(){
-    fetch ("http://localhost:5000/booksData")
+    fetch ("https://betterreadthandead.herokuapp.com/booksData")
     .then((res) => res.json())
     .then((res) => setBooksList(res))
 }

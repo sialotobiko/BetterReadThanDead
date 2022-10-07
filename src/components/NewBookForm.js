@@ -11,7 +11,7 @@ function NewBookForm() {
     e.preventDefault();
 
 
-    fetch("http://localhost:5000/booksData", {
+    fetch("https://betterreadthandead.herokuapp.com/booksData", {
       method: "POST",
       body: JSON.stringify(books),
       headers: {
