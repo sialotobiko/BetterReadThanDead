@@ -25,7 +25,6 @@ function fetchBookData(){
             <th>Title</th>
             <th>Author</th>
             <th>Genre</th>
-            <th>Year Published</th>
         </tr>
       </tbody>
       {booksList.map((book, id) => (
@@ -34,7 +33,6 @@ function fetchBookData(){
             <td>{book.title}</td>
             <td>{book.author}</td>
             <td>{book.genre}</td>
-            <td>{book.yearPublished}</td>
         </tr>
       ))}
     </div>

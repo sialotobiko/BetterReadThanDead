@@ -4,8 +4,7 @@ function NewBookForm() {
   const [books, updateBooks] = useState({
     title: "",
     author: "",
-    genre: "",
-    yearPublished: "",
+    genre: ""
   });
 
   function submit(e) {
@@ -62,16 +61,6 @@ function NewBookForm() {
             id="genre"
             onChange={(e) => handle(e)}
             value={books.genre}
-          />
-        </label>
-        <label>
-          Year Published
-          <input
-            type="text"
-            name="year"
-            id="year"
-            onChange={(e) => handle(e)}
-            value={books.yearPublished}
           />
         </label>
         <div>
