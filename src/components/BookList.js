@@ -1,5 +1,4 @@
 import React from "react";
-import Book from "./Book";
 import { useEffect, useState } from "react";
 
 function BookList(){
@@ -18,7 +17,7 @@ function fetchBookData(){
 
     return (
         <div className='books'>
-      {/* display a list of books using Book component */}
+      {/* display a list of books */}
 
       <tbody>
         <tr>
